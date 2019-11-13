@@ -3,7 +3,7 @@
 
 # **SWEEPS AND LOFTS**
 
-# Description:
+**Description:**
 
 For this project I had to create two parts in solidworks using the instructions in the tutorial guide called sweeps and lofts.. 
 
