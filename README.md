@@ -32,6 +32,13 @@ These two parts were fairly easy to create due to the instructions helping every
 
 # **DESIGN TABLE:**
 
+Mesurments
+https://github.com/hcoyle91/Media-2/blob/master/cap04.png
+
+All different configurations:
+https://github.com/hcoyle91/Media-2/blob/master/cap7.png
+
+
 **Description**
 
 
@@ -39,12 +46,17 @@ These two parts were fairly easy to create due to the instructions helping every
 **Reflection**
 
 
-# **ADVANCED AND MECHANICAL MATES:**`
-
+# **ADVANCED AND MECHANICAL MATES:**
+Final product:
 https://github.com/hcoyle91/Media-2/blob/master/mates09.PNG
 
+How it should work/move:
+https://github.com/hcoyle91/Media-2/blob/master/mates08.png
 
 **Description:**
+
+
+
 
 **Relection:**
 
