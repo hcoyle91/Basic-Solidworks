@@ -22,12 +22,14 @@ These two parts were fairly easy to create due to the instructions helping every
 
  **Description:**
 
+I practice making an assembly and learned a few new skills.
+
 ![](https://i.ytimg.com/vi/xzq9rHTsv1Y/maxresdefault.jpg)
 
 ![](https://i.ytimg.com/vi/yGvZ3Jly1mI/hqdefault.jpg)
 
 **Reflection:**
-
+This project went great!
 
 
 # **DESIGN TABLE:**
