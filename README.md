@@ -56,10 +56,13 @@ How it should work/move:
 https://github.com/hcoyle91/Media-2/blob/master/mates08.png
 
 **Description:**
-
+For this project i had to make 4 parts:
+- a pin
+- 3 variations of a part in a design table
+I had to mate them together using advanced mates.
 
 
 
 **Relection:**
-
+I had no major problems in this project. I found it very smooth.
 
