@@ -42,10 +42,10 @@ https://github.com/hcoyle91/Media-2/blob/master/cap7.png
 
 
 **Description**
-
-
+For this project we had tomake a basic spool and use design tables to make different variations of the spool in solidworks. 
 
 **Reflection**
+I ran into a problem at first when the pc was loading in properly when I made the design tabl. After I asked Mr. Dierolf to fix it, It went well.
 
 
 # **ADVANCED AND MECHANICAL MATES:**
